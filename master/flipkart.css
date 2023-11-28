@@ -1,0 +1,185 @@
+/* General Styles */
+body {
+    background-color: #E8E8E8;
+}
+
+/* Carousel Section Styles */
+#carousel_items {
+    margin-top: 12px;
+    background-color: white;
+    text-align: center;
+    height: 350px;
+}
+
+#carouselExampleControls {
+    margin-top: 20px;
+}
+
+#carousel_items #c_i_1 {
+    padding: 30px;
+    font-size: 20px;
+    padding-top: 100px;
+}
+
+#carousel_items #c_i_1 p {
+    color: blue;
+}
+
+/* Grid 1 Image Styles */
+#c_images {
+    height: 300px;
+    width: 200px;
+    padding-top: 50px;
+}
+
+/* Grid 2 Image Styles */
+#g_images {
+    height: 147px;
+    width: 250px;
+    padding-left: 30px;
+}
+
+/* Grid Image Right Styles */
+#g_image_r {
+    height: 350px;
+    padding: 5px;
+}
+
+/* Navbar Styles */
+.d-inline-block align-top {
+    margin-right: 5px;
+}
+
+#nav_i {
+    color: white;
+}
+
+.dropdown-item {
+    font-size: 13px;
+}
+
+/* Grid 2 Section Styles */
+#g2_images {
+    height: 230px;
+    margin: 10px;
+}
+
+#search-bar {
+    font-size: 12px;
+    width: 500px;
+    height: inherit;
+    margin-left: 10px;
+}
+
+/* Footer Styles */
+footer {
+    color: black;
+}
+
+footer a {
+    color: #959595;
+    font-size: 12px;
+}
+
+footer a:hover {
+    color: blue;
+}
+
+.footer-middle {
+    background: white;
+    padding-top: 2em;
+    color: #565656;
+    text-align: left;
+    margin-top: 30px;
+}
+
+/* Subnavigation Styles */
+.subnavigation-container {
+    background: white;
+    text-align: center;
+}
+
+.subnavigation .nav-link {
+    color: #565656;
+    font-weight: bold;
+}
+
+.subnavigation-container .navbar {
+    display: inline-block;
+    margin-bottom: -6px;
+}
+
+.col-subnav a {
+    padding: 1rem 1rem;
+    color: #565656;
+    font-weight: bold;
+}
+
+.col-subnav .active {
+    border-top: 5px solid orange;
+    background: white;
+    color: black;
+}
+
+hr {
+    margin: 0.5px;
+}
+
+/* Footer Grid 1 Styles */
+#footer_g1 {
+    border: 1px groove #f4eded;
+    border-left: none;
+    height: 80px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/* Footer Policies Styles */
+.po {
+    border-right: 1px groove #f4eded;
+    padding: 5px;
+    color: #565656;
+}
+
+.policies-title {
+    font-size: 13px;
+}
+
+/* Footer Contact Styles */
+#footer-kip {
+    margin: 20px;
+}
+
+#contact-1 {
+    font-size: 13px;
+    color: #565656;
+}
+
+#contact-2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    color: #959595;
+}
+
+#contact-div {
+    border-bottom: 1px dashed #959595;
+    border-top: 1px dashed #959595;
+    padding-top: 20px;
+}
+
+/* Footer Notes Styles */
+#footer-notes {
+    padding-top: 20px;
+}
+
+#footer-notes-h {
+    font-size: 13px;
+    color: #565656;
+}
+
+#footer-notes-c {
+    font-size: 12px;
+    color: #959595;
+}
